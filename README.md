@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Software+Developer+%40+InfoTop+Inc.;Computer+Science+%40+University+of+Toronto;Applied+AI+%26+Backend+Architecture;CALICO+Bronze+Medalist+(UC+Berkeley)" alt="Typing SVG" />
 </a>
 
-Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailto:haohuixing.hhx@gmail.com) • Canadian Citizen
+Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailto:haohuixing.hhx@gmail.com)
 
 </div>
 
