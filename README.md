@@ -4,10 +4,10 @@
 
 <!-- Dynamic Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Software+Developer+%40+InfoTop+Inc.;Computer+Science+%40+University+of+Toronto;Applied+AI+%26+Backend+Architecture;CALICO+Bronze+Medalist+(UC+Berkeley)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&height=50&lines=Artificial+Intelligence+Engineer+%40+InfoTop+Inc.;Computer+Science+%40+University+of+Toronto;Agentic+Systems+%26+Record-of-Action+Infra;CALICO+Bronze+Medalist+(UC+Berkeley)" alt="Typing SVG" />
 </a>
 
-Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailto:haohuixing.hhx@gmail.com)
+Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailto:haohuixing.hhx@gmail.com) • [X (Twitter)](https://x.com/neural_insights)
 
 </div>
 
@@ -15,21 +15,21 @@ Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailt
 
 ### 🚀 About Me
 
-- 💻 **Software Developer at InfoTop Inc.:** Architecting production web applications, high-performance backend pipelines (<5ms latency), and hybrid AI systems.
+- 💻 **Artificial Intelligence Engineer at InfoTop Inc.:** Architecting autonomous multi-agent workflows (LangGraph, CrewAI), SEC EDGAR financial RAG pipelines (PGVector, SQL), and high-throughput backend infrastructure (<5ms latency).
 - 🎓 **Computer Science @ University of Toronto (St. George):** B.Sc. in CS (Sept 2026 – Expected May 2030).
-- 🧠 **AI & LLM Systems:** Anthropic Academy Certified in Claude API, prompt optimization, and production LLM evaluation.
+- 🧠 **AI Systems & Guardrails:** Anthropic Academy Certified in Claude API, Model Context Protocol (MCP), prompt optimization, and production LLM evaluation.
 - 🏆 **Competitive Programming:** Bronze Medalist at CALICO (UC Berkeley International Informatics Contest) in C++.
 
 ---
 
 ### 💼 Work Experience & Impact
 
-#### **Software Developer @ InfoTop Inc.** *(Sept 2024 – Present)*
-- 🌐 **RelocateMind:** Scaled top-of-funnel discovery across **20+ global residency visa programs** using Python, FastAPI, and Tailwind CSS.
-- ⚡ **<5ms Latency Engine:** Built a deterministic algorithm in Python & JavaScript evaluating family multipliers and shortfalls for real-time eligibility re-ranking.
-- 💰 **Zero-Cost Anonymous AI:** Architected a hybrid AI backend using FastAPI & Supabase (PostgreSQL JSONB) that **eliminated 100% of LLM API costs** for anonymous visitors.
-- 🔒 **Stateless Security:** Implemented HMAC-signed cookies for **100% data retention** across anonymous-to-authenticated user onboarding sessions.
-- 📄 **Document Automation:** Integrated **Gemini API** to generate real-time consulate cover letters and personalized tax dossiers upon registration.
+#### **Artificial Intelligence Engineer @ InfoTop Inc.** *(Sept 2023 – Present)*
+- 🤖 **Autonomous Multi-Agent Architecture:** Architected and deployed an end-to-end multi-agent market intelligence system using **LangGraph** and **CrewAI**, orchestrating specialized agents for automated data extraction, sentiment analysis, and macro outlook synthesis.
+- 📄 **SEC EDGAR Data Pipeline:** Engineered high-throughput ingestion and parsing pipelines for unstructured **SEC EDGAR filings (10-K, 10-Q, 8-K)**, leveraging **PGVector** and **SQL** for hybrid vector search and low-latency RAG retrieval.
+- 📊 **Multi-Source Sentiment Ingestion:** Built automated data ingestion routines aggregating real-time sentiment across social and financial channels with strict data cleaning and schema normalization scripts.
+- 🛡️ **Production Reliability & Validation:** Integrated **Pydantic** schema validation and structured JSON output guards, eliminating hallucinated financial metrics and generating audit-ready security evaluation reports.
+- ⚡ **<5ms Latency Engine:** Optimized deterministic algorithm calculation latency to under **5ms**, enabling real-time re-ranking using **Python, Asyncio, and JavaScript**.
 
 ---
 
@@ -39,11 +39,10 @@ Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailt
 
 | Category | Technologies & Tools |
 | :--- | :--- |
-| **Languages** | `Python 3.11+` `C++` `SQL (PostgreSQL)` `JavaScript (ES6+)` `Java` `HTML5/CSS3` |
-| **Backend & Cloud** | `FastAPI` `Supabase (Auth/RLS)` `PostgreSQL (JSONB)` `Pydantic` `Docker` `Asyncio` `REST APIs` |
-| **AI & LLMs** | `Gemini API` `Anthropic Claude` `LangChain` `RAG` `Prompt Engineering` |
-| **Frontend & UI** | `Tailwind CSS` `Jinja2 SSR` `Streamlit` `Responsive Design` |
-| **Tools & Hosting** | `Git` `GitHub` `Render (PaaS)` `Postman` `Linux/Unix` `Uvicorn` |
+| **Languages** | `Python 3.11+` `C++` `SQL (PostgreSQL)` `TypeScript` `JavaScript (ES6+)` `Java` |
+| **AI & Agent Systems** | `LangGraph` `CrewAI` `Pydantic` `PGVector` `LlamaIndex` `LangChain` `RAG` `Anthropic Claude` `Model Context Protocol (MCP)` |
+| **Backend & Cloud** | `FastAPI` `Supabase (Auth/RLS)` `PostgreSQL (JSONB)` `Docker` `Asyncio` `RESTful APIs` `HMAC Security` |
+| **Tools & Infrastructure** | `Git` `GitHub` `Linux/Unix` `Streamlit` `Render` `Postman` `Uvicorn` |
 
 <br/>
 
@@ -54,7 +53,6 @@ Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailt
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 </div>
 
@@ -70,22 +68,22 @@ Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailt
 > **Stack:** `Python` • `Streamlit` • `Supabase` • `Pandas` • `yfinance`
 
 - Developed a full-stack financial dashboard for live stock tracking with Supabase user auth and relational database persistence for custom watchlists.
-- Built an event-driven alert pipeline using an **OOP Alarm hierarchy** and custom **Queue** to monitor price, volume, and alpha indicators.
+- Built an event-driven alert pipeline using an **OOP Alarm hierarchy** and custom **Queue** data structure to monitor price, volume, and alpha indicators.
 - Engineered a dynamic market screener utilizing a **custom recursive Merge Sort algorithm** in Pandas for real-time S&P 500 sorting.
 - 🔗 **Repo:** [github.com/haohuixing/quantview](https://github.com/haohuixing/quantview)
 
 </details>
 
 <details>
-<summary><b>🌍 RelocateMind (Visa Match & Discovery Engine)</b> — <i>Click to expand</i></summary>
+<summary><b>🌍 RelocateMind (AI Placement Backend)</b> — <i>Click to expand</i></summary>
 
 <br/>
 
 > **Stack:** `Python` • `FastAPI` • `Supabase (JSONB)` • `Gemini API` • `Tailwind CSS`
 
-- Engineered live match evaluation for 20+ visa programs with **<5ms calculation latency**.
-- Designed a split-screen reactive onboarding quiz in Jinja2/Tailwind with HMAC cookie auto-migration upon registration.
-- Automated document generation for consulate cover letters and tax dossiers using Gemini API.
+- Architected a hybrid AI backend using FastAPI & Supabase (PostgreSQL JSONB) that **eliminated 100% of LLM API costs** for anonymous visitors.
+- Implemented stateless session security using **HMAC-signed cookies**, achieving 100% data retention across anonymous-to-authenticated user migrations.
+- Engineered live match evaluation across 20+ visa programs with **<5ms calculation latency**.
 
 </details>
 
@@ -115,7 +113,7 @@ Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailt
 ### 🏆 Certifications & Competition Honors
 
 **Anthropic Academy Certified** *(Anthropic - June 2026)*  
-*Credential in Claude API integration, multi-modal prompt optimization, and production LLM system evaluation.*
+*Credential in Claude API integration, multi-modal prompt optimization, Model Context Protocol (MCP), and production LLM evaluation.*
 
 **Bronze Medalist | CALICO** *(UC Berkeley - Fall 2024)*  
 *International algorithmic problem-solving & data structure speed in C++.*
