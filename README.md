@@ -15,7 +15,7 @@ Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailt
 
 ### 🚀 About Me
 
-- 💻 **Artificial Intelligence Engineer at InfoTop Inc.:** Architecting autonomous multi-agent workflows (LangGraph, CrewAI), SEC EDGAR financial RAG pipelines (PGVector, SQL), and high-throughput backend infrastructure (<5ms latency).
+- 💻 **Artificial Intelligence Engineer at InfoTop Inc.:** Architecting autonomous multi-agent workflows (LangGraph, CrewAI), SEC EDGAR financial RAG pipelines (pgvector, SQL), and high-throughput backend infrastructure (<5ms latency).
 - 🎓 **Computer Science @ University of Toronto (St. George):** B.Sc. in CS (Sept 2026 – Expected May 2030).
 - 🧠 **AI Systems & Guardrails:** Anthropic Academy Certified in Claude API, Model Context Protocol (MCP), prompt optimization, and production LLM evaluation.
 - 🏆 **Competitive Programming:** Bronze Medalist at CALICO (UC Berkeley International Informatics Contest) in C++.
@@ -26,10 +26,10 @@ Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailt
 
 #### **Artificial Intelligence Engineer @ InfoTop Inc.** *(Sept 2023 – Present)*
 - 🤖 **Autonomous Multi-Agent Architecture:** Architected and deployed an end-to-end multi-agent market intelligence system using **LangGraph** and **CrewAI**, orchestrating specialized agents for automated data extraction, sentiment analysis, and macro outlook synthesis.
-- 📄 **SEC EDGAR Data Pipeline:** Engineered high-throughput ingestion and parsing pipelines for unstructured **SEC EDGAR filings (10-K, 10-Q, 8-K)**, leveraging **PGVector** and **SQL** for hybrid vector search and low-latency RAG retrieval.
+- 📄 **SEC EDGAR Data Pipeline:** Engineered high-throughput ingestion and parsing pipelines for unstructured **SEC EDGAR filings (10-K, 10-Q, 8-K)**, leveraging **pgvector** and **SQL** for hybrid vector search and low-latency RAG retrieval.
 - 📊 **Multi-Source Sentiment Ingestion:** Built automated data ingestion routines aggregating real-time sentiment across social and financial channels with strict data cleaning and schema normalization scripts.
 - 🛡️ **Production Reliability & Validation:** Integrated **Pydantic** schema validation and structured JSON output guards, eliminating hallucinated financial metrics and generating audit-ready security evaluation reports.
-- ⚡ **<5ms Latency Engine:** Optimized deterministic algorithm calculation latency to under **5ms**, enabling real-time re-ranking using **Python, Asyncio, and JavaScript**.
+- ⚡ **<5ms Latency Engine:** Optimized deterministic algorithm calculation latency to under **5ms**, enabling real-time re-ranking using **Python, asyncio, and JavaScript**.
 
 ---
 
@@ -40,8 +40,8 @@ Toronto, ON • [LinkedIn](https://linkedin.com/in/haohuixing) • [Email](mailt
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **Languages** | `Python 3.11+` `C++` `SQL (PostgreSQL)` `TypeScript` `JavaScript (ES6+)` `Java` |
-| **AI & Agent Systems** | `LangGraph` `CrewAI` `Pydantic` `PGVector` `LlamaIndex` `LangChain` `RAG` `Anthropic Claude` `Model Context Protocol (MCP)` |
-| **Backend & Cloud** | `FastAPI` `Supabase (Auth/RLS)` `PostgreSQL (JSONB)` `Docker` `Asyncio` `RESTful APIs` `HMAC Security` |
+| **AI & Agent Systems** | `LangGraph` `CrewAI` `Pydantic` `pgvector` `LlamaIndex` `LangChain` `RAG` `Anthropic Claude` `Model Context Protocol (MCP)` |
+| **Backend & Cloud** | `FastAPI` `Supabase (Auth/RLS)` `PostgreSQL (JSONB)` `Docker` `asyncio` `RESTful APIs` `HMAC Security` |
 | **Tools & Infrastructure** | `Git` `GitHub` `Linux/Unix` `Streamlit` `Render` `Postman` `Uvicorn` |
 
 <br/>
